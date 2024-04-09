@@ -5,3 +5,8 @@ Uses location data and communicates with a main database in order to access and 
 
 https://console.firebase.google.com/project/volunteer-app-ecc3f/authentication/users
 
+Credits:
+
+Maisam Anjum - Main Developer
+Dr Renata Dividino - Supervisor
+Nicole Roasa - Graphic Designer
