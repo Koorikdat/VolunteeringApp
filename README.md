@@ -12,7 +12,7 @@ https://console.firebase.google.com/project/volunteer-app-ecc3f/authentication/u
 
 
 
-Credits:
+## Credits:
 
 Maisam Anjum - Main Developer
 Dr Renata Dividino - Supervisor
